@@ -16,7 +16,7 @@
 
 Nama | NRP
 --- | ---
-Mochkamad Mualana Syafaat | 50272411021
+Mochkamad Mualana Syafaat | 5027241021
 ... | 5027241xxx
 ... | 5027241xxx
 ... | 5027241xxx
